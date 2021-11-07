@@ -84,22 +84,20 @@ ul {
 }
 
 /*             CARROUSEL                   */
-.carousel-caption h5{
-	font-size: 100px;
-	letter-spacing: 2px;
-	color: #ffffff;
-	background: #00000038;
+.carousel-caption h5 {
+	font-size: 80px;
+	color: white;
+	letter-spacing: 0.1px;
 	font-family: 'Faster One', cursive;
-	margin-bottom: 50px;
 }
 
-.carousel-caption p{
-	font-size: 50px;
-	letter-spacing: 1px;
-	color: #61c7f6;
-	background: #00000038;
+.carousel-caption P {
+	font-size: 45px;
+	color: rgb(20, 169, 255);
+	letter-spacing: 0.1px;
 	font-family: 'Faster One', cursive;
 }
+
 
 /*             FINISH                          */
 
